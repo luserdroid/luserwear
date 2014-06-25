@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GarganoActivity!</string>
+    <string name="app_name">Pizzeria Gargano</string>
+    <string name="menue"><u>Menü</u></string> 
+    <string name="alforno">"Pasta\nüberbacken"</string> 
+    <string name="opening"><u>Öffnungszeiten</u></string>
+    <string name="openingtimes"><u>Mo - Fr</u>\n11-22 Uhr\n<u>Samstags</u>\n12-22 Uhr\n<u>Sonntags</u>\n15-22 Uhr\n<u>Feiertags</u>\n12-22 Uhr</string>
+	<string name="imprintname"><b>Pizzeria Gargano</b></string>
+	<string name="imprintaddress">"Gumbertstr. 99\n40229 Düsseldorf"</string>
+	<string name="imprintdata">"Inh. Calo und Di Vincenzo\nTelefon: 02 11 / 2 29 13 03\nEmail: kontakt@gargano-pizzeria.de\nInternet: www.gargano-pizzeria.de\nSteuernummer: 133/5705/0371"</string>
+</resources>

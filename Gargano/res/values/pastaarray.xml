@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+        <string-array name="pasta_id">
+		<item>87</item>
+		<item>88</item>
+		<item>89</item>
+		<item>90</item>
+		<item>91</item>
+		<item>92</item>
+		<item>93</item>
+		<item>94</item>																																						
+    </string-array>
+    
+    
+    <string-array name="pasta_names">
+		<item>Combinazione Alfredo</item>
+		<item>Combinazione Gargano</item>
+		<item>Combinazione Gorgonzola</item>
+		<item>Lasagne Vegetaria</item>
+		<item>Lasagne Gargano</item>
+		<item>Lasagne Alfredo</item>
+		<item>Lasagne (Traditionale)</item>
+		<item>Cannelloni</item>																																						
+    </string-array>
+
+    <string-array name="pasta_price">       
+		<item>8,00</item>
+        <item>8,00</item>
+        <item>8,00</item>
+        <item>8,00</item>
+        <item>7,50</item>        
+        <item>7,50</item>
+        <item>6,50</item>
+        <item>6,50</item>        
+    </string-array>
+    
+    <string-array name="pasta_ingredient">
+		<item>mit 3 Sorten Nudeln, Erbsen, Vorderschinken, Tomatensahnesauce</item>
+		<item>mit 3 Sorten Nudeln, Spinat, Tomatensahnesauce</item>
+		<item>mit 3 Sorten Nudeln, Sahnesauce</item>
+		<item>mit Tomatensahnesauce</item>
+		<item>mit Spinat, Tomatensahnesauce</item>
+		<item>mit Erbsen, Vorderschinken, Tomatensahnesauce</item>
+		<item>Traditionale</item>
+		<item>Gefüllte Röhrennudeln</item>
+																
+    </string-array>    
+    
+</resources>
+
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="borderLow">#999</color>
+    <color name="borderHigh">#DDD</color>
+    
+    <color name="gradientStart">#DDD</color>
+    <color name="gradientEnd">#BBB</color>
+    
+    <color name="textt">#999</color>
+    <color name="shadow">#FFFFFF</color>
+	
+	<color name="gargano">#9e1e4a</color>
+	<color name="text">#f2df93</color>
+</resources>

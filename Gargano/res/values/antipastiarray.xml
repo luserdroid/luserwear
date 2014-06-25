@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="antipasti_id">
+        <item>95</item>
+        <item>98</item>
+        <item>99</item>        
+    </string-array>
+    <string-array name="antipasti_names">
+        <item>Caprese</item>
+        <item>Funghi Gratinati</item>
+        <item>Broccoli Gratinati</item>
+    </string-array>
+
+    <string-array name="antipasti_price">
+        <item>6,50</item>
+        <item>6,00</item>        
+        <item>6,50</item>
+    </string-array>
+    
+    <string-array name="antipasti_ingredient">
+        <item>mit Mozarellakäse, frischen Tomaten, Basilikum</item>
+        <item>mit frischen Champignons, Sahnesauce</item>
+        <item>mit Broccoli, Formfleischvorderschinken, Tomatensauce</item>
+    </string-array>    
+    
+</resources>
+
+

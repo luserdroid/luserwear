@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="tagliatelle_id">
+		<item>82</item>
+		<item>83</item>
+		<item>84</item>
+		<item>85</item>
+		<item>86</item>
+    </string-array>    
+    
+    <string-array name="tagliatelle_names">
+		<item>Al Funghi</item>
+		<item>Alfredo</item>
+		<item>Bolognese</item>
+		<item>Scampi</item>
+		<item>Alla Chef</item>
+    </string-array>
+
+    <string-array name="tagliatelle_price">
+        <item>7,50</item>
+		<item>8,00</item>
+        <item>7,50</item>
+        <item>8,50</item>
+        <item>8,50</item>        
+    </string-array>
+    
+    <string-array name="tagliatelle_ingredient">
+		<item>mit Champignons, Sahnesauce</item>
+		<item>mit Erbsen, Tomatensahnesauce, Formfleischvorderschinken</item>
+		<item>mit Hackfleischsauce</item>
+		<item>mit Schrimps, frischen Tomaten, Sahnesauce</item>
+		<item>mit Putenfleisch, Paprika, Erbsen, Tomatensahnesauce</item>																
+    </string-array>    
+    
+</resources>
+
+

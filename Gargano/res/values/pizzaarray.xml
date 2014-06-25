@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="pizza_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+		<item>6</item>
+		<item>7</item>
+		<item>8</item>
+		<item>9</item>
+		<item>10</item>
+		<item>11</item>
+		<item>12</item>
+		<item>13</item>
+		<item>14</item>
+		<item>15</item>
+		<item>16</item>
+		<item>17</item>
+		<item>18</item>
+		<item>19</item>
+		<item>20</item>
+		<item>21</item>
+		<item>22</item>
+		<item>23</item>
+		<item>24</item>
+		<item>25</item>
+		<item>26</item>
+		<item>27</item>
+		<item>28</item>
+		<item>29</item>
+		<item>30</item>
+		<item>31</item>
+		<item>32</item>
+		<item>33</item>
+		<item>34</item>
+		<item>35</item>
+		<item>36</item>
+		<item>37</item>
+		<item>38</item>
+		<item>39</item>
+		<item>40</item>
+		<item>41</item>
+		<item>42</item>
+		<item>43</item>
+		<item>44</item>
+		<item>45</item>
+		<item>46</item>
+		<item>47</item>
+    </string-array>    
+    
+    <string-array name="pizza_names">
+        <item>Con Uova</item>
+        <item>Margherita</item>
+        <item>Salami</item>
+        <item>Spinaci</item>
+        <item>Mista</item>
+		<item>Quattro Stagioni</item>
+		<item>Funghi</item>
+		<item>Prosciutto</item>
+		<item>Tonno</item>
+		<item>Calzone</item>
+		<item>Mare E Monte</item>
+		<item>Napoli</item>
+		<item>Belvedere</item>
+		<item>Frutti Di Mare</item>
+		<item>Italia</item>
+		<item>San Marino</item>
+		<item>Campagnola</item>
+		<item>Primavera</item>
+		<item>Paesana</item>
+		<item>Cosimo</item>
+		<item>Cipolla</item>
+		<item>Paprika</item>
+		<item>Scampi</item>
+		<item>Carciofini</item>
+		<item>Hawaii</item>
+		<item>Regata</item>
+		<item>Gargano</item>
+		<item>Fontanelle</item>
+		<item>Tremiti</item>
+		<item>Varano</item>
+		<item>Adria</item>
+		<item>Da Pino E Mimmo</item>
+		<item>Al Salmone</item>
+		<item>Mozzarella</item>
+		<item>Vegetaria</item>
+		<item>Fantasia</item>
+		<item>Bolognese</item>
+		<item>Alla Casa</item>
+		<item>Siciliana</item>
+		<item>Pizza 4 Pesci</item>
+		<item>Pizza Hawaii Spezial</item>
+		<item>Parma</item>
+		<item>Pizza Campioni</item>
+		<item>Calzone Hawaii</item>
+		<item>Pane Pizza Brot</item>
+		<item>Brötchen</item>
+		<item>Gefüllte Brötchen</item>
+    </string-array>
+
+    <string-array name="pizza_price">
+        <item>4,50</item>
+        <item>4,50</item>
+        <item>5,50</item>
+        <item>6,50</item>
+        <item>8,00</item>
+		<item>7,50</item>
+		<item>6,50</item>
+		<item>7,00</item>
+		<item>7,00</item>
+		<item>7,50</item>
+		<item>8,00</item>
+		<item>6,00</item>
+		<item>7,50</item>
+		<item>8,00</item>
+		<item>7,00</item>
+		<item>6,50</item>
+		<item>7,50</item>
+		<item>7,00</item>
+		<item>7,50</item>
+		<item>8,50</item>
+		<item>6,00</item>
+		<item>6,00</item>
+		<item>8,50</item>
+		<item>6,50</item>
+		<item>7,50</item>
+		<item>8,50</item>
+		<item>8,00</item>
+		<item>7,50</item>
+		<item>7,50</item>
+		<item>8,00</item>
+		<item>7,50</item>
+		<item>8,00</item>
+		<item>8,00</item>
+		<item>6,00</item>
+		<item>8,00</item>
+		<item>8,00</item>
+		<item>7,00</item>
+		<item>8,00</item>
+		<item>8,00</item>
+		<item>8,50</item>
+		<item>8,00</item>
+		<item>8,50</item>
+		<item>8,00</item>
+		<item>7,00</item>
+		<item>2,00</item>
+		<item>1,50</item>
+		<item>3,00</item>
+    </string-array>
+    
+    <string-array name="pizza_ingredient">
+        <item>mit Ei</item>
+        <item>mit Käse</item>
+        <item>mit Salami</item>
+        <item>mit Spinat</item>
+        <item>mit Champignons, Thunfisch, Spinat, Formfleischvorderschinken</item>
+		<item>mit Thunfisch, Artischocken, Champignons, Formfleischvorderschinken</item>
+		<item>mit Champignons</item>
+		<item>mit Formfleischvorderschinken</item>
+		<item>mit Thunfisch</item>
+		<item>gefüllte Pizza mit Champignons, Spinat, Formfleischvorderschinken</item>
+		<item>mit Spinat, Shrimps</item>
+		<item>mit Oliven, Sardellen</item>
+		<item>mit Thunfisch, Spinat, Paprika</item>
+		<item>mit Meeresfrüchten</item>
+		<item>mit Spinat, Zwiebeln, Paprika</item>
+		<item>mit Sardellen, Kapern, Salami</item>
+		<item>mit Artischocken, Spinat, Formfleischvorderschinken</item>
+		<item>mit Ei, Spinat</item>
+		<item>mit Champignons, Formfleischvorderschinken</item>
+		<item>mit Artischocken, Zwiebeln, Thunfisch, Schrimps</item>
+		<item>mit Zwiebeln</item>
+		<item>mit Paprika</item>
+		<item>mit Schrimps</item>
+		<item>mit Artischocken</item>
+		<item>mit Ananas, Formfleischvorderschinken</item>
+		<item>mit Thunfisch, Spinat, Shrimps, Champignons, Formfleischvorderschinken</item>
+		<item>mit Champignons, Spinat, Zwiebeln, Artischocken, Formfleischvorderschinken</item>
+		<item>mit Artischocken, Paprika, Formfleischvorderschinken</item>
+		<item>mit Thunfisch, Champignons, Zwiebeln</item>
+		<item>mit Thunfisch Paprika, Zwiebeln, Oliven, Formfleischvorderschinken</item>
+		<item>mit Zwiebeln, Lachsersatz, Oliven</item>
+		<item>mit Champignons, Zwiebeln, Thunfisch, Formfleischvorderschinken</item>
+		<item>mit Broccoli, Lachsersatz, frischen Tomaten, Oliven, Petersillie, Knoblauch</item>
+		<item>mit Mozzarellakäse</item>
+		<item>mit Zwiebeln, Champignons, Spinat, Artischocken</item>
+		<item>Überraschungspizza</item>
+		<item>mit Hackfleischsauce</item>
+		<item>mit Artischocken, Broccoli, Zwiebeln, Formfleischvorderschinken</item>
+		<item>mit Broccoli, Putenfleisch, frischen Tomaten</item>
+		<item>mit Sardellen, Meeresfrüchten, Thunfisch, Scampi</item>
+		<item>mit Putenfleisch, Ananas</item>
+		<item>mit Parmaschinken, Ruccola, Parmaggiano</item>
+		<item>mit Broccoli, Meeresfrüchten</item>
+		<item>mit Ananas, Formfleischvorderschinken</item>
+		<item>mit Kräuterbutter</item>
+		<item>insgesamt 6 Stück</item>
+		<item>insgesamt 6 Stück, Käse mit einem Wunschbelag</item>
+    </string-array>    
+    
+</resources>
+
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="penne_id">
+		<item>75</item>
+		<item>76</item>
+		<item>77</item>
+		<item>78</item>
+		<item>79</item>
+		<item>80</item>
+		<item>81</item>
+    </string-array>
+    
+    <string-array name="penne_names">
+		<item>Provinciale</item>
+		<item>Alla casa</item>
+		<item>Quattro Formaggi</item>
+		<item>Gorgonzola</item>
+		<item>Vegetaria</item>
+		<item>Pinocchio</item>
+		<item>Italia</item>
+    </string-array>
+
+    <string-array name="penne_price">        
+        <item>7,50</item>
+		<item>7,50</item>
+        <item>7,50</item>
+        <item>7,50</item>
+        <item>8,00</item>        
+		<item>8,00</item>
+        <item>7,50</item>
+    </string-array>
+    
+    <string-array name="penne_ingredient">
+		<item>mit Tomatensahnesauce, Kapern, Knoblauch</item>
+		<item>mit Tomentensahnesauce, Champignons, Erbsen, Broccoli, Formfleischvorderschinken</item>
+		<item>mit 4 Käsesorten, Sahnesauce</item>
+		<item>mit Gorgonzolakäse, Sahnesauce</item>
+		<item>mit Champignons, Spinat, Paprika, Erbsen, Tomatensahnesauce</item>
+		<item>mit Broccoli, Putenfleisch, Tomatensahnesauce</item>
+		<item>mit Spinat, Paprika, Zwiebeln, Tomatensahnesauce</item>
+    </string-array>    
+    
+</resources>
+
+

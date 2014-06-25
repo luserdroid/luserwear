@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dessert_id">
+        <item>118</item>
+        <item>119</item>
+    </string-array>
+    
+    
+    <string-array name="dessert_names">
+        <item>Tartufo Weiss</item>
+        <item>Tartufo Schoko</item>
+    </string-array>
+
+    <string-array name="dessert_price">
+        <item>3,00</item>
+        <item>3,00</item>        
+    </string-array>
+    
+    <string-array name="dessert_ingredient">
+        <item>italienische Eisspezialität</item>
+        <item>italienische Eisspezialität</item>
+    </string-array>    
+    
+</resources>
+
+

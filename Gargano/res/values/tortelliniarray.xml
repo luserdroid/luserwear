@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="tortellini_id">
+		<item>70</item>
+		<item>71</item>
+		<item>72</item>
+		<item>73</item>
+		<item>74</item>
+    </string-array>    
+    
+    <string-array name="tortellini_names">
+		<item>Alla Panna</item>
+		<item>Al Forno</item>
+		<item>Quattro Formaggi</item>
+		<item>Spigo</item>
+		<item>Alfredo</item>
+    </string-array>
+
+    <string-array name="tortellini_price">
+		<item>7,00</item>
+        <item>7,00</item>
+        <item>7,50</item>
+        <item>8,00</item>
+		<item>7,50</item>
+    </string-array>
+    
+    <string-array name="tortellini_ingredient">
+		<item>mit Sahnesauce, Formfleischvorderschinken</item>
+		<item>mit Hackfleischsauce, Käse überbacken</item>
+		<item>mit 4 Käsesorten, Sahnesauce</item>
+		<item>mit Spinat, Gorgonzola, Sahnesauce</item>
+		<item>mit Erbsen, Tomatensahnesauce, Formfleischvorderschinken</item>			
+    </string-array>    
+    
+</resources>
+
+

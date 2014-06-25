@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="gnocci_id">
+		<item>57</item>
+		<item>58</item>
+		<item>59</item>
+		<item>60</item>
+		<item>61</item>
+		<item>62</item>																																				
+    </string-array>
+    
+    
+    <string-array name="gnocci_names">
+		<item>Gorgonzola</item>
+		<item>Provinciale</item>
+		<item>Quattro Formaggi</item>
+		<item>Bolognese</item>
+		<item>Sorrentina</item>
+		<item>Spigo</item>																																				
+    </string-array>
+
+    <string-array name="gnocci_price">
+		<item>7,50</item>
+        <item>7,50</item>
+        <item>7,50</item>
+        <item>7,00</item>
+		<item>7,50</item>
+        <item>8,00</item>       
+    </string-array>
+    
+    <string-array name="gnocci_ingredient">
+		<item>mit Gorgonzolakäse, Sahnesauce</item>
+		<item>mit Tomatensauce, Kapern, Sahne, Knoblauch</item>
+		<item>mit 4 Käsesorten, Sahnesauce</item>
+		<item>mit Hackfleischsauce</item>
+		<item>mit Tomatensauce, Mozzarella überbacken</item>
+		<item>mit Spinat, Gorgonzola, Sahnesauce</item>				
+    </string-array>    
+    
+</resources>
+
+

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/linitem"
+	android:layout_height="wrap_content" 
+	android:layout_width="fill_parent"
+	android:layout_marginLeft="10dp">
+        	
+	    <RelativeLayout 
+	    	android:id="@+id/linminders"
+	    	android:layout_width="wrap_content"
+	    	android:layout_height="wrap_content"
+	    	android:layout_alignParentLeft="true"
+	    	android:layout_alignParentTop="true">
+	    
+	    	<ImageView 
+	    	    android:id="@+id/ivminderempty"
+	    	    android:layout_width="wrap_content"
+	    	    android:layout_height="wrap_content"
+	    	    android:src="@drawable/minderempty"
+	    	    android:layout_alignParentLeft="true"
+	    	    android:layout_alignParentTop="true"
+	    	    android:visibility="visible"/>
+	
+	        <ImageView 
+	    	    android:id="@+id/ivminderfull"
+	    	    android:layout_width="wrap_content"
+	    	    android:layout_height="wrap_content"
+	    	    android:src="@drawable/minderfull"
+	    	    android:layout_alignParentLeft="true"
+	    	    android:layout_alignParentTop="true"
+	    	    android:visibility="gone"/>        
+	    </RelativeLayout>
+    	
+	    <RelativeLayout 
+	        android:id="@+id/linnameprice"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:layout_below="@id/linminders">
+
+		<TextView
+		    android:id="@+id/tvname"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignParentLeft="true"
+		    android:paddingRight="30dp"
+		    android:text="name"
+		    android:textSize="16sp" />
+		
+		<TextView
+		    android:id="@+id/tvprice"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignParentRight="true"
+		    android:text="price"
+		    android:textSize="16sp" />
+	        	        	        
+	    </RelativeLayout>
+				
+		<TextView
+		    android:id="@+id/tvdescription"
+		    android:layout_below="@id/linnameprice"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="desc" 
+		    android:includeFontPadding="true"
+		    android:textSize="10sp"/>
+	
+		<View 
+		    android:layout_width="fill_parent"
+		    android:layout_height="1dp"
+		    android:layout_marginTop="20dp"
+		    android:layout_below="@id/tvdescription" 
+		    android:background="#000000"/>
+		
+</RelativeLayout>    

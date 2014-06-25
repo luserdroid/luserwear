@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:background="@color/gargano">
+    
+    <LinearLayout 
+        android:id="@+id/header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+	    <ImageView
+	        android:layout_weight="4"
+	        android:id="@+id/calling"
+	        android:layout_marginTop="10dp"
+	        android:layout_marginBottom="10dp"
+	        android:layout_alignParentTop="true"
+	        android:layout_alignParentRight="true"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/phone"/>
+	
+		<ImageView
+	        android:id="@+id/facebook"
+	        android:layout_weight="4"
+	        android:layout_marginTop="10dp"
+	        android:layout_marginBottom="10dp"
+	        android:layout_alignParentTop="true"
+	        android:layout_alignParentLeft="true"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/facebook"/>    
+	    
+		<ImageView
+	        android:id="@+id/maps"
+	        android:layout_marginTop="10dp"
+	        android:layout_weight="4"
+	        android:layout_marginBottom="10dp"
+	        android:layout_alignParentTop="true"
+	        android:layout_toRightOf="@id/facebook"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/maps"/> 	    
+	
+		<ImageView
+	        android:id="@+id/sms"
+	        android:layout_marginTop="10dp"
+	        android:layout_marginBottom="10dp"
+	        android:layout_weight="4"
+	        android:layout_alignParentTop="true"
+	        android:layout_toRightOf="@id/maps"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/sms"/> 	    
+        
+    </LinearLayout>
+    
+	
+    <LinearLayout
+        android:id="@+id/menu"
+        android:layout_below="@id/header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"        
+        android:orientation="horizontal"
+        android:background="@color/text" >
+        
+     <TextView  
+        android:id="@+id/tvorder"
+		android:gravity="center"
+        android:layout_width="fill_parent"
+        android:layout_height="26dip" 
+        android:focusable="true"
+        android:textColor="#000000"
+        android:text="Wir liefern ab 10 EUR Mindestbestellwert!" />
+        
+        <LinearLayout 
+            android:id="@+id/tvmenumap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:layout_margin="5dp"
+            android:background="@color/text">
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="@color/gargano"
+                android:text="Anfahrt"/>
+        </LinearLayout>       
+            
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:id="@+id/lintab"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:background="@color/text">
+        
+        <LinearLayout 
+            android:id="@+id/pizza"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_margin="5dp"
+            android:background="@color/text">
+            <TextView 
+                android:id="@+id/tvmenupizza"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:textColor="@color/gargano"
+                android:text="Pizza"/>
+        </LinearLayout>         
+        
+        <LinearLayout 
+            android:id="@+id/salad"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_margin="5dp"
+            android:background="@color/text">
+            <TextView 
+                android:id="@+id/tvmenuinsalata"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:textColor="@color/gargano"
+                android:text="Insalata"/>
+        </LinearLayout>         
+        
+        <LinearLayout 
+            android:id="@+id/lingerichte"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_margin="5dp"
+            android:background="@color/text">
+            <TextView 
+                android:id="@+id/tvgerichte"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:textColor="@color/gargano"
+                android:text="Gerichte"/>
+        </LinearLayout>         
+        
+        <LinearLayout 
+            android:id="@+id/dessert"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_margin="5dp"
+            android:background="@color/text">
+            <TextView 
+                android:id="@+id/tvmenudessert"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:textColor="@color/gargano"
+                android:text="Dessert"/>
+        </LinearLayout>        
+        
+    </LinearLayout>
+ 		
+    <LinearLayout
+        android:id="@+id/submenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/lintab"
+        android:layout_below="@id/menu"
+        android:orientation="vertical">
+
+        <TextView 
+            android:id="@+id/tvmenualforno"
+        	android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="@color/text"
+            android:text="@string/alforno"/>
+
+        <TextView 
+            android:id="@+id/tvmenuspaghetti"
+        	android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="@color/text"
+            android:text="Spaghetti"/>
+
+        <TextView 
+            android:id="@+id/tvmenupenne"
+        	android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="@color/text"
+            android:text="Penne"/>
+        
+        <TextView 
+            android:id="@+id/tvmenurigatoni"
+        	android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="@color/text"
+            android:text="Rigatoni"/>
+        
+        <TextView 
+            android:id="@+id/tvmenutortellini"
+        	android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="@color/text"
+            android:text="Tortellini"/>
+        
+        <TextView 
+            android:id="@+id/tvmenugnocci"
+        	android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="@color/text"
+            android:text="Gnocci"/>
+        
+        <TextView 
+            android:id="@+id/tvmenutagliatelle"
+        	android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="@color/text"
+            android:text="Tagliatelle"/>
+        
+        <TextView 
+            android:id="@+id/tvmenuantipasti"
+        	android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="@color/text"
+            android:text="Antipasti"/>            
+        
+     </LinearLayout>
+     
+     <ScrollView
+         android:layout_width="fill_parent"
+         android:layout_height="fill_parent"
+         android:layout_above="@id/lintab"
+         android:layout_alignParentRight="true"
+		 android:fillViewport="true"
+         android:layout_below="@id/menu"
+         android:layout_toRightOf="@id/submenu">
+        
+         <LinearLayout 
+             android:id="@+id/linitems"
+             android:layout_height="fill_parent"
+             android:layout_width="fill_parent"
+             android:orientation="vertical"/>
+        
+     </ScrollView>
+    
+    
+</RelativeLayout>

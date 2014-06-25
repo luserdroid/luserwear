@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="spaghetti_id">
+		<item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+		<item>50</item>
+		<item>51</item>
+		<item>52</item>
+		<item>53</item>
+		<item>54</item>
+		<item>55</item>
+		<item>56</item>
+    </string-array>    
+    
+    <string-array name="spaghetti_names">
+		<item>Matriciana</item>
+        <item>Bolognese</item>
+        <item>Al Forno</item>
+        <item>Al Tonno</item>
+		<item>Frutti Di Mare</item>
+		<item>Carbonara</item>
+		<item>Alla Casa</item>
+		<item>Al Salmone</item>
+		<item>Alla Chef</item>
+		<item>Pino e Mimo</item>
+		<item>Aglio E Olio</item>
+    </string-array>
+
+    <string-array name="spaghetti_price">
+		<item>7,50</item>
+        <item>6,50</item>
+        <item>7,00</item>
+        <item>7,00</item>
+		<item>8,00</item>
+        <item>7,00</item>
+        <item>7,50</item>
+        <item>7,50</item>
+		<item>8,00</item>
+        <item>8,00</item>
+        <item>5,50</item>        
+    </string-array>
+    
+    <string-array name="spaghetti_ingredient">
+        <item>mit Tomatensauce, Speck, Zwiebeln</item>
+        <item>mit Hackfleischsauce</item>
+        <item>mit Hackfleischsauce und Käse überbacken</item>
+        <item>mit Tomatensauce, Thunfisch, Zwiebeln</item>
+        <item>mit Tomatensauce, Meeresfrüchten</item>
+		<item>mit Ei, Sahnesauce, Formfleischvorderschinken</item>
+		<item>mit mit Tomatensauce, Champignons, Erbsen, Broccoli, Formfleischvorderschinken</item>
+		<item>mit Lachs, Tomatensauce</item>
+		<item>mit Rucola, Scami, frischen Tomaten, Olivenölsauce</item>
+		<item>mit Scampi, Champignon, Currysauce</item>
+		<item>mit Peperoni, Knoblauch, scharf</item>
+    </string-array>    
+    
+</resources>
+
+

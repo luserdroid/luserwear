@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="gerichte_id">
+        <item>111</item>
+        <item>112</item>
+        <item>113</item>
+    </string-array>
+    
+    <string-array name="gerichte_names">
+        <item>Scaloppa al Funghi</item>
+        <item>Scaloppa Milanese</item>
+        <item>Scaloppa Gargano</item>
+    </string-array>
+
+    <string-array name="gerichte_price">
+        <item>10,00</item>
+        <item>10,00</item>        
+        <item>10,00</item>
+    </string-array>
+    
+    <string-array name="gerichte_ingredient">
+        <item>mit Schweineschnitzel mit Champignonsauce als Beilage Nudeln oder Salat</item>
+        <item>mit paniertes Schweineschnitzel als Beilage Nudeln oder Salat</item>
+        <item>mit Schweineschnitzel mit frischen Tomaten, Mozarella als Beilage Nudeln oder Salat</item>
+    </string-array>    
+    
+</resources>
+
+

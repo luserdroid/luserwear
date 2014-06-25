@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="insalata_id">
+        <item>100</item>
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+		<item>105</item>
+		<item>106</item>
+		<item>107</item>
+		<item>108</item>
+		<item>109</item>
+		<item>110</item>
+    </string-array>    
+    
+    <string-array name="insalata_names">
+        <item>Gemischter Salat</item>
+        <item>Salatplatte</item>
+        <item>Thunfisch Salat</item>
+        <item>Salat Nicoise</item>
+        <item>Tomatensalat</item>
+		<item>Gurkensalat</item>
+		<item>Salat Alla Chef</item>
+		<item>Putenbrustsalat</item>
+		<item>Bauernsalat</item>
+		<item>Salat Nizza</item>
+		<item>Salat Hawaii</item>
+    </string-array>
+
+    <string-array name="insalata_price">
+        <item>3,50</item>
+        <item>6,50</item>
+        <item>5,50</item>
+        <item>7,00</item>
+        <item>3,00</item>
+		<item>3,50</item>
+		<item>8,00</item>
+		<item>8,00</item>
+		<item>7,00</item>
+		<item>6,50</item>
+		<item>6,50</item>
+    </string-array>
+    
+    <string-array name="insalata_ingredient">
+        <item>Basis als Salat, Tomaten, Gurken Paprika, Ei, Olive</item>
+        <item>mit Basis, Käse, Formfleischvorderschinken</item>
+        <item>mit Basis, Thunfisch</item>
+        <item>mit Basis, Käse, Thunfisch, Formfleischvorderschinken</item>
+        <item>mit Tomaten, Zwiebeln</item>
+        <item>mit Gurken</item>
+        <item>mit Basis, Käse, Schrimps, Artischocken</item>
+        <item>mit Basis, Putenbruststreifen, Champignon</item>
+        <item>mit Basis, milde Peperoni, Oliven, Schafskäse</item>
+        <item>mit Basis, Thunfisch, Sardellen, Ei</item>
+        <item>mit Basis, Ananas, Formfleischvorderschinken</item>
+    </string-array>    
+    
+</resources>
+
+

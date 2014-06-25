@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="rigatoni_id">
+		<item>63</item>
+		<item>64</item>
+		<item>65</item>
+		<item>66</item>
+		<item>67</item>
+		<item>68</item>
+		<item>69</item>																																					
+    </string-array>    
+    
+    <string-array name="rigatoni_names">
+		<item>Alla casa</item>
+		<item>Al Forno</item>
+		<item>Quattro Formaggi</item>
+		<item>Bolognese</item>
+		<item>Gargano</item>
+		<item>Al Arrabiata</item>
+		<item>Alla Chef</item>																																					
+    </string-array>
+
+    <string-array name="rigatoni_price">
+		<item>7,50</item>
+        <item>7,00</item>
+        <item>7,50</item>
+        <item>6,50</item>
+		<item>7,50</item>
+        <item>7,00</item>
+        <item>8,00</item>       
+    </string-array>
+    
+    <string-array name="rigatoni_ingredient">
+		<item>mit Tomentensauce, Champignons, Erbsen, Broccoli, Formfleischvorderschinken</item>
+		<item>mit Hackfleischsauce, Käse überbacken</item>
+		<item>mit 4 Käsesorten, Sahnesauce</item>
+		<item>mit Hackfleischsauce</item>
+		<item>mit Spinat, Tomatensahnesauce</item>		
+		<item>mit Zwiebeln, Oliven, Knoblauch, Tomatensauce, scharf</item>
+		<item>mit Putenfleisch, Paprika, Erbsen, Tomatensahnesauce</item>																
+    </string-array>    
+    
+</resources>
+
+
